@@ -1,8 +1,10 @@
 .settings
 lib_managed
-FunctionalProgrammingScala/recfun/project/project/target/config-classes/$02be4c568780c62e78e8.class
-FunctionalProgrammingScala/recfun/project/project/target/
-FunctionalProgrammingScala/recfun/project/target/
-FunctionalProgrammingScala/recfun/target/
-FunctionalProgrammingScala/recfun/.classpath
-FunctionalProgrammingScala/recfun/.project
+*/*/.classpath
+*/*/.project
+*/*/target
+*/*/target/**
+*/*/project/target
+*/*/project/project/target
+*/*/project/target/**
+*/*/project/project/target/**
